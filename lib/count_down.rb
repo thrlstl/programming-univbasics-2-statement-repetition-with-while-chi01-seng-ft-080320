@@ -5,3 +5,4 @@ while count <= 10 do
   count = count - 1
   count != magic_exit_number
 end
+puts "Happy New Year!"
